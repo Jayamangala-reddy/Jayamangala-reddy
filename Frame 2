@@ -42,7 +42,7 @@ void print_ArrayList(ArrayList<Integer> A)
 {
 for(Integer i:A)
 {
-System.out.print(i+" ");
+System.out.print(i+"   ");
 }
 }
 }
